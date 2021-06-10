@@ -1,0 +1,11 @@
+.App {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  font-family: 'Comic Neue', cursive;
+  color: rgb(97, 97, 97);
+ 
+  background: linear-gradient(70deg,  #008BC8 40%, #936C00 40%);
+}
+
